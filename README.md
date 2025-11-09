@@ -22,8 +22,9 @@ JavaScript (Vanilla) – interactivity and transitions
 
 📸 Preview
 
+![Login Form Preview](login.png)
 
-![Login Form Preview](screenshot.png)
+![Login Form Preview](login1.png)
 
 🧠 How It Works
 
